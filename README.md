@@ -28,7 +28,7 @@ During my bootcamp, I gained hands-on experience with:
 I'm open to collaboration and connecting with others in the tech industry. If you're interested in working together or simply want to have a chat, feel free to reach out to me.
 
 - LinkedIn: [Justin D. A. Smith](https://www.linkedin.com/in/justindasmith)
-- Email: justin@example.com
+- Email: justin@outlook.com
 
 <!---
 JustinDASmith/JustinDASmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
